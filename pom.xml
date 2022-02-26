@@ -7,6 +7,9 @@
     <groupId>com.alwertus</groupId>
     <artifactId>simple-rest</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>jar</packaging>
+    <name>simple-rest</name>
+    <description>simple-rest</description>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
